@@ -1,0 +1,48 @@
+{
+  "name": "gruvbox-fresh",
+  "version": "1.0.0",
+  "description": "Retro groove color scheme (morhetz/gruvbox) for Fresh: dark & light, hard/medium/soft contrast",
+  "type": "theme-pack",
+  "fresh": {
+    "themes": [
+      {
+        "file": "themes/gruvbox-dark-hard.json",
+        "name": "Gruvbox Dark (hard)",
+        "variant": "dark"
+      },
+      {
+        "file": "themes/gruvbox-dark-medium.json",
+        "name": "Gruvbox Dark (medium)",
+        "variant": "dark"
+      },
+      {
+        "file": "themes/gruvbox-dark-soft.json",
+        "name": "Gruvbox Dark (soft)",
+        "variant": "dark"
+      },
+      {
+        "file": "themes/gruvbox-light-hard.json",
+        "name": "Gruvbox Light (hard)",
+        "variant": "light"
+      },
+      {
+        "file": "themes/gruvbox-light-medium.json",
+        "name": "Gruvbox Light (medium)",
+        "variant": "light"
+      },
+      {
+        "file": "themes/gruvbox-light-soft.json",
+        "name": "Gruvbox Light (soft)",
+        "variant": "light"
+      }
+    ]
+  },
+  "license": "MIT",
+  "keywords": [
+    "gruvbox",
+    "retro",
+    "dark",
+    "light",
+    "theme"
+  ]
+}
